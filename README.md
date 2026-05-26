@@ -38,7 +38,7 @@ Program to implement the given logic function and to verify its operations in qu
 Developed by: sanjay babu.m
 RegisterNumber:212225040369
 i) module funct1(a,b,c,d,f1);
-
+```
 input a,b,c,d;
 
 output f1;
@@ -56,7 +56,7 @@ output f2;
 assign f2=((~y & z)|( w & y )|(x & y));
 
 endmodule
-
+```
 
 <img width="1039" height="538" alt="image" src="https://github.com/user-attachments/assets/b991a84c-8a7d-4bd1-890c-ed498dbafbc2" />
 
