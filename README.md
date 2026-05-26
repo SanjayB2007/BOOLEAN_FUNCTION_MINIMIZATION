@@ -63,15 +63,7 @@ endmodule
 <img width="1086" height="734" alt="image" src="https://github.com/user-attachments/assets/3432fbaa-5646-4faf-9c25-2cdd72fe36e2" />
 
 
-**RTL realization**
 
-**Output:**
 
-**RTL**
 
-**Timing Diagram**
-
-**Result:**
-
-Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
 
