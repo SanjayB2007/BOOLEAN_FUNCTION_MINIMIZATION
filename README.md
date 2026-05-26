@@ -16,8 +16,6 @@ Hardware – PCs, Cyclone II , USB flasher
 
 **Theory**
 
-**Logic Diagram**
-
 **Procedure**
 
 1.	Type the program in Quartus software.
@@ -35,25 +33,8 @@ Hardware – PCs, Cyclone II , USB flasher
 
 /* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
 
-i) module funct1(a,b,c,d,f1);
+<img width="609" height="384" alt="image" src="https://github.com/user-attachments/assets/06075bc8-e14b-4f90-a89c-6b13ac553f31" />
 
-input a,b,c,d;
-
-output f1;
-
-assign f1=((~b & ~d)|(~a & b & d)|(a & b & ~c));
-
-endmodule
-
-ii) module funct2(w,x,y,z,f2);
-
-input w,x,y,z;
-
-output f2;
-
-assign f2=((~y & z)|( w & y )|(x & y));
-
-endmodule
 
 Developed by: VISHNU.V
 RegisterNumber: 212225040494
@@ -63,10 +44,14 @@ RegisterNumber: 212225040494
 
 <img width="762" height="398" alt="image" src="https://github.com/user-attachments/assets/3c7f08ea-0bf7-4276-af3f-d8a6b8d911e3" />
 
+**Truth Table**
 
-**Output:**
+<img width="1177" height="1599" alt="image" src="https://github.com/user-attachments/assets/31bf0a73-20d9-4723-9d44-7bdf338e3af0" />
 
-<img width="1919" height="1032" alt="image" src="https://github.com/user-attachments/assets/65398ce1-1144-4bb5-9d2a-4bbb5e4b057c" />
+**Output Waveform:**
+
+<img width="1374" height="322" alt="image" src="https://github.com/user-attachments/assets/b41dfae8-7b7e-4684-8056-91a4d2076151" />
+
 
 
 **Result:**
